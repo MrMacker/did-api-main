@@ -18,7 +18,7 @@ As described [here](https://www.iota.org/solutions/digital-identity), IOTA Ident
 ### Setup with docker-compose
 
 If you are developing something new using this code, we recommend using the `docker-compose.dev.yml`
-1. Clone this repository => https://github.com/zignartech/did-api
+1. Clone this repository => git clone https://github.com/zignartech/did-api
 2. Then, run this
 ```
 docker-compose -f docker-compose.dev.yml up --build -d
